@@ -61,8 +61,8 @@ cnm-group12/
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/ChungZinh/cnm-group12.git
-    cd cnm-group12
+    git clone [https://github.com/ChungZinh/cnm-group12.git](https://github.com/Vinh021202/Zalo-App.git)
+    cd Zalo-App
     ```
 
 2. **Setup zalo-mobile**
